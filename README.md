@@ -1,7 +1,9 @@
 # gabrielknight-dosbox
 Configuration Files for properly running the 90's adventure Gabriel Knight on Dosbox (on Linux)
 
-This repository covers the version from GOG.com
+This repository covers the version from GOG.com.
+
+Buy it here: https://www.gog.com/game/gabriel_knight_sins_of_the_fathers
 
 ## Usage
 
